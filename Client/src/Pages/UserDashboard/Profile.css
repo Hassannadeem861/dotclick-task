@@ -1,0 +1,43 @@
+.profile-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 67vh;
+}
+
+.profile-card {
+    background-color: black;
+    border-radius: 10px;
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+    padding: 30px;
+    width: 550px;
+    height: 250px;
+    text-align: center;
+}
+
+.profile-card h1 {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.profile-name {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.profile-email {
+    font-size: 20px;
+    color: white;
+
+    margin-bottom: 30px;
+}
+
+.profile-email span {
+    font-weight: 700;
+    color: white;
+
+}
+
+
